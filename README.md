@@ -40,6 +40,9 @@
 
 例如（一个示例管理表格）：
 
-<img src="./img/shimo.png" width="800px" alt="xmind">
+<img src="./img/shimo.png" width="500px" alt="xmind">
 
 
+## 代码管理工具：Gitlab
+
+（感谢集智学园程序组友情协助）
