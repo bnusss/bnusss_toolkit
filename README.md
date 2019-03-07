@@ -28,3 +28,5 @@
 
 例如：
 
+<img src="./img/xind.png" width="800px" alt="xmind">
+
