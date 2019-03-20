@@ -87,5 +87,5 @@ tower（https://tower.im）和 trollow （https://trello.com） 是两个免费�
 
 
 <hr>
-<i>如果你还有其他好用的工具，欢迎联系3riccczz@gmail.com（张章）</i>
-_Tools may help, but don't be trapped._
+<font size=1>如果你还有其他好用的工具，欢迎联系3riccczz@gmail.com（张章）</font>
+<font size=2>Tools may help, but don't be trapped.</font>
