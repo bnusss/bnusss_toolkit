@@ -30,10 +30,12 @@
 
 <img src="./img/xmind.png" width="800px" alt="xmind">
 
+详细展开版(内部同学可见)请见：
+
 
 ## 实验协作流程管理：石墨文档
 
-正如张老师所说，要发好的期刊，工作量都是非常大的，因此记录我们工作的阶段性结论就很重要。<br>
+要发好的期刊，工作量都是非常大的，因此记录我们工作的阶段性结论就很重要。<br>
 石墨文档是一个在线多人协作文档（https://shimo.im）<br>
 针对实验流程的管理，尤其是涉及到多人协作的时候，我们可以整理如下表格<br>
 每天大家可以把今日工作结果用两句话整理到石墨文档上（只记录重要结论，无需记录细节），也可以开会后定某件事情的DDL写在文档上。<br>
@@ -43,6 +45,36 @@
 <img src="./img/shimo.png" width="500px" alt="xmind">
 
 
-## 代码管理工具：Gitlab
+## 代码管理工具：Gitlab / github
 
-（感谢集智学园程序组友情协助）
+感谢集智学园程序组友情协助<br>	
+科研项目的代码量并不多，协作要求不高，但每个版本都十分重要，因此我们可以着重使用gitlab的
+
+- 代码版本打tag功能
+- code review功能
+- 快速同步功能
+
+## 建立你的个人网站：mobirise.co / html5up.net
+
+建立你的个人网站可以方便的向他人展示你自己<br>
+Git Pages(https://pages.github.com) 是一个方便、免费、广受认可的静态网站托管平台，可以为我们所使用<br>
+<br>
+
+以下是两个简单的例子<br>
+
+https://lingfeiwu.github.io/ <br>
+https://3riccc.github.io/ <br>
+
+以下是一些方便且美观的建站工具<br>
+https://mobirise.co <br> 
+https://html5up.net
+
+
+
+以上两个例子分别用到了
+
+
+## tower / trollow
+
+## 一个大的索引
+
