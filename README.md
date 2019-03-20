@@ -81,7 +81,7 @@ https://html5up.net
 一些奇奇怪怪的想法也可以记录到 wish list里面 <br>
 一个典型的看板项目如下：
 
-<img src="。/img/board.png" alt="">
+<img src="./img/board.png" alt="">
 
 tower（https://tower.im）和 trollow （https://trello.com） 是两个免费的支持看板任务管理的web软件，值得一试
 
