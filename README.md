@@ -47,7 +47,8 @@
 
 ## 代码管理工具：Gitlab / github
 
-感谢集智学园程序组友情协助<br>	
+感谢集智学园程序组友情协助<br>
+git的使用已经成为了一项基本技能，相信大家都有必要学会熟练的使用git <br>
 科研项目的代码量并不多，协作要求不高，但每个版本都十分重要，因此我们可以着重使用gitlab的
 
 - 代码版本打tag功能
@@ -70,11 +71,18 @@ https://mobirise.co <br>
 https://html5up.net
 
 
+## 看板项目管理工具：tower / trollow
 
-以上两个例子分别用到了
+看板式项目管理是一种清晰，简洁的项目管理方式 <br>
+具体而言，我们可以将任务分为 wish list / to do / doing / done / trash 这五类 <br>
+因为一个科研项目往往需要关注很多因素， 看板式的项目管理可以帮助我们梳理那些事情正处于哪些状态 <br>
+一个健康的任务会从todo 跑到 doing 再跑到 done <br>
+当然，如果我们发现这个任务没有必要，可以把它扔到trash里面 <br>
+一些奇奇怪怪的想法也可以记录到 wish list里面 <br>
+一个典型的看板项目如下：
 
+<img src="。/img/board.png" alt="">
 
-## tower / trollow
+tower（https://tower.im）和 trollow （https://trello.com） 是两个免费的支持看板任务管理的web软件，值得一试
 
-## 一个大的索引
 
