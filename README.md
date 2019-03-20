@@ -85,7 +85,8 @@ https://html5up.net
 
 tower（https://tower.im）和 trollow （https://trello.com） 是两个免费的支持看板任务管理的web软件，值得一试
 
-
+<br>
 <hr>
-<font size=1>如果你还有其他好用的工具，欢迎联系3riccczz@gmail.com（张章）</font>
+<font size=2>如果你还有其他好用的工具，欢迎联系3riccczz@gmail.com（张章）</font>
+<br>
 <font size=2>Tools may help, but don't be trapped.</font>
