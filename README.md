@@ -61,10 +61,9 @@ git的使用已经成为了一项基本技能，相信大家都有必要学会�
 Git Pages(https://pages.github.com) 是一个方便、免费、广受认可的静态网站托管平台，可以为我们所使用<br>
 <br>
 
-以下是两个简单的例子<br>
+以下是简单的例子<br>
 
 https://lingfeiwu.github.io/ <br>
-https://3riccc.github.io/ <br>
 
 以下是一些方便且美观的建站工具<br>
 https://mobirise.co <br> 
