@@ -103,44 +103,46 @@ export PATH="/home/liujing/anaconda3/bin:$PATH" <br>
 安装完成后，可以修改镜像源。参考https://mirrors.tuna.tsinghua.edu.cn/help/anaconda/
 不然装包会很慢的。
 
+
 ## 使用conda管理环境
 
-###### 创建一个名为torch03的环境
+##### 创建一个名为torch03的环境
 ```
 conda create -n torch03 python=3.6 numpy scipy matplotlib jupyter notebook
 ```
 
-###### 激活虚拟环境
+##### 激活虚拟环境
 
 ```
 conda activate torch03
 ```
 
 
-##### 在虚拟环境中安装包
+#### 在虚拟环境中安装包
 ```
 conda install pytorch=0.3 
 ```
 
-##### 退出虚拟环境
+#### 退出虚拟环境
 ```
 conda deactivate
 ```
 
-##### 删除虚拟环境
+#### 删除虚拟环境
 
 ```
 conda remove -n torch03 package/ --all
 ```
 
-##### 查看虚拟环境列表
+#### 查看虚拟环境列表
 
 ```
 conda env list
 ```
 
-##### 复制虚拟环境，复制功能常用作环境备份：为了避免环境崩溃，在对环境进行操作（如安装某个包）之前，进行环境备份是一个好习惯
-否则，如果环境崩溃了，只能重头装，当环境很复杂的时候，是非常麻烦的
+#### 复制虚拟环境
+复制功能常用作环境备份：为了避免环境崩溃，在对环境进行操作（如安装某个包）之前，进行环境备份是一个好习惯 <br>
+否则，如果环境崩溃了，只能重头装，当环境很复杂的时候，这个过程是非常麻烦的
 ```
 conda create -n env_backup_name --clone env_name
 ```
