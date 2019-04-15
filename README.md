@@ -84,8 +84,72 @@ https://html5up.net
 
 tower（https://tower.im）和 trollow （https://trello.com） 是两个免费的支持看板任务管理的web软件，值得一试
 
+
+## 使用Anaconda
+
+Anaconda的下载，前往https://mirrors.tuna.tsinghua.edu.cn <br>
+安装过程中，添加环境变量记得选yes。<br>
+安装完成后，在命令行输入which python，显示的应该是 <br>
+
+<img src="./img/anaconda.png" alt=""> <br>
+
+这就说明你现在用的python是你目录下anaconda文件夹里的python，而不是系统默认的python。<br>
+
+#### 手动添加环境变量：
+vim ~/.bashrc 然后添加 <br> 
+export PATH="/home/liujing/anaconda3/bin:$PATH" <br>
+保存退出，再 source ~/.bashrc即可 <br>
+<br>
+安装完成后，可以修改镜像源。参考https://mirrors.tuna.tsinghua.edu.cn/help/anaconda/
+不然装包会很慢的。
+
+## 使用conda管理环境
+
+###### 创建一个名为torch03的环境
+```
+conda create -n torch03 python=3.6 numpy scipy matplotlib jupyter notebook
+```
+
+###### 激活虚拟环境
+
+```
+conda activate torch03
+```
+
+
+##### 在虚拟环境中安装包
+```
+conda install pytorch=0.3 
+```
+
+##### 退出虚拟环境
+```
+conda deactivate
+```
+
+##### 删除虚拟环境
+
+```
+conda remove -n torch03 package/ --all
+```
+
+##### 查看虚拟环境列表
+
+```
+conda env list
+```
+
+##### 复制虚拟环境，复制功能常用作环境备份：为了避免环境崩溃，在对环境进行操作（如安装某个包）之前，进行环境备份是一个好习惯
+否则，如果环境崩溃了，只能重头装，当环境很复杂的时候，是非常麻烦的
+```
+conda create -n env_backup_name --clone env_name
+```
+
 <br>
 <hr>
 <font size=2>如果你还有其他好用的工具，欢迎联系3riccczz@gmail.com（张章）</font>
 <br>
 <font size=2>Tools may help, but don't be trapped.</font>
+
+
+
