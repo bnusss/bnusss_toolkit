@@ -5,16 +5,17 @@
 
 # 目录
 
-<a href="#t1">梳理科研项目的思维链条：Xmind8</a>
-<a href="#t2">实验协作文档/流程管理：石墨文档</a>
-<a href="#t3">代码管理工具：Gitlab / Github</a>
-<a href="#t4">建立你的个人网站：mobirise.co / html5up.net</a>
-<a href="#t5">板项目管理工具：tower / trollow</a>
-<a href="#t6">使用Anaconda</a>
-<a href="#t7">使用conda管理环境</a>
+<a href="#t1">梳理科研项目的思维链条：Xmind8</a> <br>
+<a href="#t2">实验协作文档/流程管理：石墨文档</a> <br>
+<a href="#t3">代码管理工具：Gitlab / Github</a> <br>
+<a href="#t4">建立你的个人网站：mobirise.co / html5up.net</a> <br>
+<a href="#t5">板项目管理工具：tower / trollow</a> <br>
+<a href="#t6">使用Anaconda</a> <br>
+<a href="#t7">使用conda管理环境</a> <br>
+
+<div id="t1"></div>
 
 ## 梳理科研项目的思维链条：Xmind8 
-<div id="t1"></div>
 
 在我们做科研项目的时候，一个非常重要的点是（至少第一作者）必须要对自己的科研项目的整个思维链条非常熟悉。这包括，至少可以流畅的回答以下问题：
 
@@ -44,9 +45,9 @@
 
 详细展开版(内部同学可见)请见： http://210.31.72.204/f/489
 
+<div id="t2"></div>
 
 ## 实验协作文档/流程管理：石墨文档
-<div id="t2"></div>
 
 要发好的期刊，工作量都是非常大的，因此记录我们工作的阶段性结论就很重要。<br>
 石墨文档是一个在线多人协作文档（https://shimo.im）<br>
@@ -57,9 +58,9 @@
 
 <img src="./img/shimo.png" width="500px" alt="xmind">
 
+<div id="t3"></div>
 
 ## 代码管理工具：Gitlab / Github
-<div id="t3"></div>
 
 感谢集智学园程序组友情协助<br>
 git的使用已经成为了一项基本技能，相信大家都有必要学会熟练的使用git <br>
@@ -69,8 +70,9 @@ git的使用已经成为了一项基本技能，相信大家都有必要学会�
 - code review功能
 - 快速同步功能
 
-## 建立你的个人网站：mobirise.co / html5up.net
 <div id="t4"></div>
+
+## 建立你的个人网站：mobirise.co / html5up.net
 
 建立你的个人网站可以方便的向他人展示你自己<br>
 Git Pages(https://pages.github.com) 是一个方便、免费、广受认可的静态网站托管平台，可以为我们所使用<br>
@@ -84,9 +86,9 @@ https://lingfeiwu.github.io/ <br>
 https://mobirise.co <br> 
 https://html5up.net
 
+<div id="t5"></div>
 
 ## 看板项目管理工具：tower / trollow
-<div id="t5"></div>
 
 看板式项目管理是一种清晰，简洁的项目管理方式 <br>
 具体而言，我们可以将任务分为 wish list / to do / doing / done / trash 这五类 <br>
@@ -100,9 +102,9 @@ https://html5up.net
 
 tower（https://tower.im）和 trollow （https://trello.com） 是两个免费的支持看板任务管理的web软件，值得一试
 
+<div id="t6"></div>
 
 ## 使用Anaconda
-<div id="t6"></div>
 
 Anaconda的下载，前往https://mirrors.tuna.tsinghua.edu.cn <br>
 安装过程中，添加环境变量记得选yes。<br>
@@ -120,9 +122,9 @@ export PATH="/home/liujing/anaconda3/bin:$PATH" <br>
 安装完成后，可以修改镜像源。参考https://mirrors.tuna.tsinghua.edu.cn/help/anaconda/
 不然装包会很慢的。
 
+<div id="t7"></div>
 
 ## 使用conda管理环境
-<div id="t7"></div>
 
 ##### 创建一个名为torch03的环境
 ```
