@@ -126,6 +126,9 @@ export PATH="/home/liujing/anaconda3/bin:$PATH" <br>
 
 ## 使用conda管理环境
 
+通常而言，我们会为每一个新项目创建一个虚拟环境，每次都激活对应的虚拟环境之后，再进行项目的操作 <br>
+特别是，当我们要复现他人论文代码的时候，尤其需要首先创建好对应的虚拟环境，否则可能事倍功半
+
 ##### 创建一个名为torch03的环境
 ```
 conda create -n torch03 python=3.6 numpy scipy matplotlib jupyter notebook
